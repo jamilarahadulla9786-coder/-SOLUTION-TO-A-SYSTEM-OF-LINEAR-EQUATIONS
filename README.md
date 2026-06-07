@@ -7,9 +7,13 @@ To write a python program to find a solution to a system of linear equations.
 ## Algorithm:
 Start.
 1.Import the NumPy library.
+
 2.Define matrix A containing the coefficients of the equations.
+
 3.Define vector B containing the constants on the right-hand side.
+
 4.Use np.linalg.solve(A, B) to find the solution vector C.
+
 5.Print the values of C.
 6.Stop.
 ### Step 1: 
